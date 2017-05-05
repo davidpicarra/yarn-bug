@@ -1,0 +1,22 @@
+{
+  "name": "yarn-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpicarra/yarn-bug.git"
+  },
+  "dependencies": {
+    "fake-vue": "git+https://github.com/vuejs/vue.git#b977c77d344cb1fc63a3daa50a4b96ef70e77ec5"
+  },
+  "author": "David Picarra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidpicarra/yarn-bug/issues"
+  },
+  "homepage": "https://github.com/davidpicarra/yarn-bug#readme"
+}
